@@ -83,7 +83,7 @@ const About = () => {
 
               <div className="relative rounded-lg overflow-hidden">
                 <img
-                  src="public/profile.jpg"
+                  src="/profile.jpg"
                   alt="Alfred Jolo"
                   className="w-full h-auto rounded-lg grayscale group-hover:grayscale-0 
                            transition-all duration-300"
